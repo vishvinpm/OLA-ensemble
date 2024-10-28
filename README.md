@@ -28,7 +28,7 @@ Assuming as a data scientist at Ola, you are entrusted with the responsibility o
     - This is the classification problem for churning, we need to track the various metrics like Recall, ROC-AUC curve etc.
     - As this industry is very competitive we need to focus more on the trained feature importances.
 
-##*Column Profiling*
+## *Column Profiling*
 
 | Feature | Description |
 | :-------| :-----------|
